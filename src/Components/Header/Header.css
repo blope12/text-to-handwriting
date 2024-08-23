@@ -1,0 +1,22 @@
+.header {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #262626;
+    height: 100px;
+}
+
+
+.headerRight > a {
+    text-decoration: solid;
+    color: white;
+}
+
+
+.headerRight > a > .MuiSvgIcon-root{
+    font-size: 70px;
+}
+
+
